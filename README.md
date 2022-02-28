@@ -26,3 +26,17 @@ Access to [FFIR](https://github.com/zemaz/FlamingDumpster/wiki/How-to-Create-an-
 ### MSN#00N
 
 ## Phase Layout:
+
+1.  Operational Objective (OO)
+  i.  Phase1
+    a.  TO-01
+    b.  TO-02
+  ii. Phase2
+    a.  TO-01
+    b.  TO-02
+  iii.  Phase3
+    a.  TO-01
+    b.  TO-02
+    
+    
+    
