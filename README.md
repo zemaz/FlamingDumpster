@@ -34,7 +34,7 @@ Access to [FFIR](https://github.com/zemaz/FlamingDumpster/wiki/How-to-Create-an-
   - Phase2
     -  TO-01
     -  TO-02
-  -  Phase3
+  - Phase3
     -  TO-01
     -  TO-02
     
