@@ -28,13 +28,13 @@ Access to [FFIR](https://github.com/zemaz/FlamingDumpster/wiki/How-to-Create-an-
 ## Phase Layout:
 
 1.  Operational Objective (OO)
-  - Phase1
+  - Phase1 BASELINE
     -  TO-01
     -  TO-02
-  - Phase2
+  - Phase2 EXECUTE
     -  TO-01
     -  TO-02
-  - Phase3
+  - Phase3 POST-ACTIVITIES
     -  TO-01
     -  TO-02
     
