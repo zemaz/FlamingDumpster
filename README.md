@@ -1,28 +1,8 @@
--------------------------------------------------------------------------------------------------------------------------------------
-# ::EXAMPLE::
+# MISSION NAME - FlamingDumpster
 
-## FlamingDumpster
+## MISSION Partner Network - 222nd Base Network
 
-This will have explainations
-
-Put more things in here
-
-![Is this cyber?](https://i.redd.it/n5srya0sixv61.jpg)
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-Access to [FFIR](https://github.com/zemaz/FlamingDumpster/wiki/How-to-Create-an-FFIR) 
-
--------------------------------------------------------------------------------------------------------------------------------------
-
-# MISSION NAME
-
-## MISSION Partner Network
-
-## MISSION Objective(s)
+## MISSION Objective(s) - Hunt for APT135 on the 
 ### MSN#001
 ### MSN#002
 ### MSN#00N
@@ -50,3 +30,23 @@ Access to [FFIR](https://github.com/zemaz/FlamingDumpster/wiki/How-to-Create-an-
 ### Endgame
 ### Arkime
 ### Kibana
+
+-------------------------------------------------------------------------------------------------------------------------------------
+# ::EXAMPLE::
+
+## FlamingDumpster
+
+This will have explainations
+
+Put more things in here
+
+![Is this cyber?](https://i.redd.it/n5srya0sixv61.jpg)
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+Access to [FFIR](https://github.com/zemaz/FlamingDumpster/wiki/How-to-Create-an-FFIR) 
+
+-------------------------------------------------------------------------------------------------------------------------------------
