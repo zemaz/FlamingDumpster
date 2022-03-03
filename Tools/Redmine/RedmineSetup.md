@@ -14,12 +14,13 @@
 	2. Create Groups
 		1. Go to Groups under administration
 		2. Click "New Group"
-		3. Name the Group. e.g. 856CPT
+		3. Name the Group 856CPT
 		4. Click Create
-		5. Click the create group
+		5. Click the 856CPT group
 		6. Click on the "users" tab
-		7. Check the CCL user
-		8. click add
+		7. click on "New user"
+		8. Check the CCL user
+		9. click add
 	3. Create Roles and Permission
 		1. CLick on the "Roles and Permission" under Administration
 		2. Delete the following Roles:
@@ -32,10 +33,11 @@
 		6. Set "issue visibility" to "All issues"
 		7. set "Time logs visibility" to "All time entries"
 		8. set "users visibility" to "All active users"
-		9. Under Permissions ensure the following are selected:
+		9. ignore the "Copy workflow from"
+		10. Under Permissions ensure the following are selected:
 			* All Check boxes under Project
-			* All checkboxes under issues
-		10. Click create Button
+			* All checkboxes under "Issue tracking"
+		11. Click create Button
 	4. Create Trackers
 		1. Click on "Trackers" under Administation
 		2. Delete all the listed trackers
@@ -63,7 +65,7 @@
 			* In Progress
 			* Rsolved
 			* Closed
-		4. Check ALL the checkboxes
+		4. Ensure that all the checkboxes are checked
 		5. Select Save
 	7. Create a Project
 		1. Select "Project" under "Administration"
