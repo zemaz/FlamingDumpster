@@ -83,4 +83,7 @@
 		13. Click the Issue Tracking Tab
 		14. Select the "856CPT" checkbox under Tracker
 		15. Click "Save"
-		
+	8. Verify that configuration
+		1. Click "Issues" (blue)
+		2. Ensure "New Issue" button is present
+			1. If not present, reverify settings.	
