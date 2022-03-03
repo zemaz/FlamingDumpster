@@ -7,12 +7,12 @@
 		2. Go to Users
 		3. Click New User
 		4. Fill in the appropriate fields to create and account for the CCL
-			Login : <first.last>
-			Check "Administrator"
-			ensure the "generate Password" and Must change password at next logon" is unchecked
+			* Login : <first.last>
+			* Check "Administrator"
+			* ensure the "generate Password" and Must change password at next logon" is unchecked
 		5. Click create
 	2. Create Groups
-		1. Go to Groups under administrationf
+		1. Go to Groups under administration
 		2. Click "New Group"
 		3. Name the Group. e.g. 856CPT
 		4. Click Create
@@ -23,17 +23,18 @@
 	3. Create Roles and Permission
 		1. CLick on the "Roles and Permission" under Administration
 		2. Delete the following Roles:
-			Manger
-			Developer
-			Reporter
+			* Manger
+			* Developer
+			* Reporter
 		3. click on "New Role"
 		4.  Name the role e.g. 856CPT
 		5. Ensure that "Issues can be assigned to users with this role" is checked
 		6. Set "issue visibility" to "All issues"
 		7. set "Time logs visibility" to "All time entries"
 		8. set "users visibility" to "All active users"
-		9. Under Permissions ensure the following are selected
-			All under Project, and Issues
+		9. Under Permissions ensure the following are selected:
+			* All Check boxes under Project
+			* All checkboxes under issues
 		10. Click create Button
 	4. Create Trackers
 		1. Click on "Trackers" under Administation
@@ -48,19 +49,20 @@
 	5. Verify "Issue Status"
 		1. Click on Issue Statuses under Administration
 		2. Ensure the the following statuses are available
-			New
-			In Progress
-			Resolved
-			Closed
+			* New
+			* In Progress
+			* Resolved
+			* Closed
+		3. Delete the rest
 	6. Check Workflow
 		1. Under Administration click Workflow
 		2. Click edit
 		3. Ensure the following exists under "Current Status"
-			New issue
-			New
-			In Progress
-			Rsolved
-			Closed
+			* New issue
+			* New
+			* In Progress
+			* Rsolved
+			* Closed
 		4. Check ALL the checkboxes
 		5. Select Save
 	7. Create a Project
@@ -69,13 +71,14 @@
 		3. Name the project w/ Mission Name
 		4. ensure "Public" and "Inherit members" checkboxes are checked
 		5. Under Modules ensure that "Isuse Tracking" and "Time Tracking" are checked
-		6. Click the "Create" button
-		7. Go to the "Members" Tab
-		8. click "New Members"
-		9. Select the "856CPT" Group
-		10. Select the "856CPT" Users
-		11. Click "Add"
-		12. Click the Issue Tracking Tab
-		13. Select the "856CPT" checkbox under Tracker
-		14. Click "Save"
+			1. Uncheck the rest
+		7. Click the "Create" button
+		8. Go to the "Members" Tab
+		9. click "New Members"
+		10. Select the "856CPT" Group
+		11. Select the "856CPT" Roles
+		12. Click "Add"
+		13. Click the Issue Tracking Tab
+		14. Select the "856CPT" checkbox under Tracker
+		15. Click "Save"
 		
