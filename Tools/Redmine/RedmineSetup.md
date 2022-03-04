@@ -1,6 +1,6 @@
 
 # Redmine Initial Setup Guide
-### Note. use "ctrl + f" if not visible
+### Note. use "ctrl + f" if what you are looking for not visible
 
 1. login to redmine w/ admin creds
 	1. Create CCL Account
