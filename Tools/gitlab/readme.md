@@ -16,8 +16,8 @@
 1. Go to project page
 2. Click on "Request Access"  (Located below the project name)
 3. Get someone with admin rights to approve member
-  1. Go to project page
-  2. Under project information, select Members
-  3. Click on "Access requests" tab
-  4. Change Max role to "Maintainer"
-  5. Click the green checkmark
+   1. Go to project page
+   2. Under project information, select Members
+   3. Click on "Access requests" tab
+   4. Change Max role to "Maintainer"
+   5. Click the green checkmark
